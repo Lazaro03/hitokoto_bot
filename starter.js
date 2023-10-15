@@ -1,6 +1,6 @@
-const token = ''
-const bot_username = '@hitokoto_bot'
-const master_id = 111111111
+const token = '6626336774:AAE-B9in4SXtazI3hStFNhrZ70ZoadIataQ'
+const bot_username = '@Michel1203'
+const master_id = 878626783
 addEventListener('fetch', event => {
     event.respondWith(handleRequest(event.request))
 })
